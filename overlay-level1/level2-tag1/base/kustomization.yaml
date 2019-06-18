@@ -1,0 +1,5 @@
+namePrefix: layer2tag1-
+bases:
+- ../../../base
+patchesStrategicMerge:
+- localserv.yaml

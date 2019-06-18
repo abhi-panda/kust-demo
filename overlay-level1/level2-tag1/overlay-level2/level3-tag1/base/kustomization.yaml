@@ -1,0 +1,5 @@
+namePrefix: layer3tag1-xgy
+bases:
+- ../../../base
+patchesStrategicMerge:
+- localserv.yaml

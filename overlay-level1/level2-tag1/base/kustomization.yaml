@@ -1,5 +1,5 @@
 namePrefix: layer2tag1-
 bases:
-- github.com/abhi-panda/kust-demo/base
+- ../../base
 patchesStrategicMerge:
 - localserv.yaml

@@ -1,5 +1,5 @@
 namePrefix: layer3tag1-xgy
 bases:
-- ../../../base
+- github.com/abhi-panda/kust-demo/overlay-level1/level2-tag1/base
 patchesStrategicMerge:
 - localserv.yaml

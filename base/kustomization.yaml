@@ -1,3 +1,2 @@
-namePrefix: layer1-
 resources:
 - service.yaml

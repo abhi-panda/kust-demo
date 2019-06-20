@@ -1,0 +1,3 @@
+base1 = https://github.com/abhi-panda/kust-demo/tree/master/base
+base2 = https://github.com/abhi-panda/kust-demo/tree/master/overlay-level1/platform1/platform1_base
+base3 = https://github.com/abhi-panda/kust-demo/tree/master/overlay-level1/platform1/overlay-level2/microservice1/microservice1_base

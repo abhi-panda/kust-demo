@@ -1,5 +1,4 @@
-namePrefix: layer3tag1-xgy
 bases:
-- ../../base
+- ../../platform1
 patchesStrategicMerge:
-- localserv.yaml
+- microservicedelta.yaml
